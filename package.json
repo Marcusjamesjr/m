@@ -1,0 +1,24 @@
+{
+  "name": "m",
+  "version": "1.0.0",
+  "description": "Educational HTTP proxy server",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcusjamesjr/m.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Marcusjamesjr/m/issues"
+  },
+  "homepage": "https://github.com/Marcusjamesjr/m#readme"
+}
